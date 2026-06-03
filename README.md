@@ -222,7 +222,7 @@ footer{
     <div class="container">
         <img src="logo.png" alt="DAKENN Logo" class="logo">
 
-        <h1>DAKENN</h1>
+        <h1>STUDIO</h1>
 
         <p>Game • App • Create</p>
     </div>
